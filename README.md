@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexhong04&label=Profile%20views&color=0e75b6&style=flat" alt="alexhong04" /> </p>
 
+- 🌱 I’m currently learning **kotlin**
+
+- 💬 Ask me about **C, python, nodejs, angularjs, typescript, javascript, kotlin, Java, OOP, Mysql, OracleSql,R, html, css**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
