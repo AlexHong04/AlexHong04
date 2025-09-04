@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<h1 align="center">Hi 👋, I'm Kok Hong</h1>
 <h3 align="center">A passionate backend developer from Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexhong04&label=Profile%20views&color=0e75b6&style=flat" alt="alexhong04" /> </p>
